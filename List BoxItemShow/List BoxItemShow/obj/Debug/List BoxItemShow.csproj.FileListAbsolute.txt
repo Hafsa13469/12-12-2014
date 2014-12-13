@@ -1,0 +1,12 @@
+D:\atiiucProjects\List BoxItemShow\List BoxItemShow\bin\Debug\List BoxItemShow.exe.config
+D:\atiiucProjects\List BoxItemShow\List BoxItemShow\bin\Debug\List BoxItemShow.exe
+D:\atiiucProjects\List BoxItemShow\List BoxItemShow\bin\Debug\List BoxItemShow.pdb
+D:\atiiucProjects\List BoxItemShow\List BoxItemShow\obj\Debug\List BoxItemShow.csprojResolveAssemblyReference.cache
+D:\atiiucProjects\List BoxItemShow\List BoxItemShow\obj\Debug\List_BoxItemShow.Form1.resources
+D:\atiiucProjects\List BoxItemShow\List BoxItemShow\obj\Debug\List_BoxItemShow.Properties.Resources.resources
+D:\atiiucProjects\List BoxItemShow\List BoxItemShow\obj\Debug\List BoxItemShow.csproj.GenerateResource.Cache
+D:\atiiucProjects\List BoxItemShow\List BoxItemShow\obj\Debug\List BoxItemShow.exe
+D:\atiiucProjects\List BoxItemShow\List BoxItemShow\obj\Debug\List BoxItemShow.pdb
+C:\Users\Jitu\Desktop\12.12.2014\List BoxItemShow\List BoxItemShow\bin\Debug\List BoxItemShow.exe.config
+C:\Users\Jitu\Desktop\12.12.2014\List BoxItemShow\List BoxItemShow\obj\Debug\List BoxItemShow.exe
+C:\Users\Jitu\Desktop\12.12.2014\List BoxItemShow\List BoxItemShow\obj\Debug\List BoxItemShow.pdb
